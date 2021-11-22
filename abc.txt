@@ -1,7 +1,11 @@
 hii im pratiksha rajangane
+<<<<<<< HEAD
 im a cse student 
 i love coding java c .net html css 
 im cse student
+=======
+im cse student cccccccccccghfhgjhkjhghgh
+>>>>>>> 12a88e7ec7d87ba524f504529cd2192d70109807
 i love coding
 sdmcet
 dharwad karanataka
